@@ -51,7 +51,7 @@ for i, expression in enumerate(expressions):
     expression = expression.strip()
     if expression:
         postfixExpressions = infixToPostfix.infixToPostfix(expression)
-        for j, postfixExpression in enumerate(postfixExpressions):
+        for postfixExpression in postfixExpressions:
             syntaxTree = createTree(postfixExpression)
 
         filename = f"syntaxTree{i+1}.gv"
