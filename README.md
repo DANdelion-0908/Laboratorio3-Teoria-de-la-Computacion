@@ -15,4 +15,4 @@ Las respuestas de cada inciso consisten en:
 Los gráficos se encuentran dentro de la carpeta PDF, mientras que las respuestas que no involucran código en PDF/Ejercicio.
 
 >[!NOTE]
-> Puedes ver el vídeo con el funcionamiento del programa [aquí](https://youtu.be/yRyCYz6noEE).
+> Puedes ver el vídeo con el funcionamiento del programa [aquí]([https://youtu.be/yRyCYz6noEE](https://youtu.be/3y99_gcrXR4)).
